@@ -4,3 +4,4 @@ sqlalchemy
 streamlit-folium
 folium
 plotly
+streamlit-drawable-canvas
